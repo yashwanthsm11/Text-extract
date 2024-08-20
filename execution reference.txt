@@ -1,0 +1,17 @@
+For 1 documents,
+Open Command prompt:
+1) cd Terrologic --> cd 1 file extract
+2) mymake\Scripts\activate
+3) python test.py
+
+The extracted data is displayed in terminal or command prompt itself in 1 file extraction.
+
+
+For 100 documents,
+Open Command prompt:
+1) cd Terrologic --> cd 100 files extract
+2) myenv\Scripts\activate
+3) python main.py
+
+
+The extracted data is saved in the 'extracted_text.csv' file which is present in the '100 files extract' folder.
